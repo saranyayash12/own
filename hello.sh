@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "i am saranya"
+echo "i am saranya saiganesh"
